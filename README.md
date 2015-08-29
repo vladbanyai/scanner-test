@@ -32,8 +32,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [Josh Lockhart](https://github.com/codeguy)
-- [All Contributors](https://github.com/modernphp/scanner/contributors)
+- [Vlad banyai](https://github.com/vladbanyai)
 
 ## License
 
